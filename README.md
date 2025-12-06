@@ -1,4 +1,4 @@
-# \# Wind Turbine SCADA Data Analysis  
+#  Wind Turbine SCADA Data Analysis  
 
 # 
 
