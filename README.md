@@ -1,28 +1,17 @@
 #  Wind Turbine SCADA Data Analysis  
 
-# 
+## Author :**Owen Nda Diche**
 
-# \## Author  
+ ---
+ 
+## Overview  
 
-# \*\*Owen Nda Diche\*\*
+ This project analyses real-world \*\*Wind Turbine SCADA (Supervisory Control and Data Acquisition)\*\* data to explore turbine performance, operational behaviour, and key relationships between wind conditions and electrical output.
 
-# 
+ 
+ SCADA datasets contain high-frequency operational measurements (such as wind speed, active power, theoretical power, and wind direction). These allow us to evaluate turbine efficiency, detect potential underperformance, and gain insights into wind energy production.
 
-# ---
-
-# 
-
-# \## Overview  
-
-# 
-
-# This project analyses real-world \*\*Wind Turbine SCADA (Supervisory Control and Data Acquisition)\*\* data to explore turbine performance, operational behaviour, and key relationships between wind conditions and electrical output.
-
-# 
-
-# SCADA datasets contain high-frequency operational measurements (such as wind speed, active power, theoretical power, and wind direction). These allow us to evaluate turbine efficiency, detect potential underperformance, and gain insights into wind energy production.
-
-# 
+ 
 
 # This project demonstrates skills in \*\*data cleaning, exploratory analysis, time-series handling, visualisation, and renewable energy analytics.\*\*
 
