@@ -13,8 +13,6 @@
 
 This project demonstrates skills in \*\*data cleaning, exploratory analysis, time-series handling, visualisation, and renewable energy analytics.\*\*
 
-# ---
-
  
 
 ## Objectives  
@@ -34,7 +32,6 @@ This project demonstrates skills in \*\*data cleaning, exploratory analysis, tim
 - Generate insights relevant to turbine efficiency  
 
 
-# ---
 
 ## Key Insights  
 
@@ -47,7 +44,6 @@ This project demonstrates skills in \*\*data cleaning, exploratory analysis, tim
 - Preliminary anomaly detection suggests possible underperformance intervals  
 
 
-# ---
 
  ## Technologies  
 
@@ -74,9 +70,6 @@ This project demonstrates skills in \*\*data cleaning, exploratory analysis, tim
 https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset
 
  
-# ---
-
- 
 
 ## Future Work  
 
@@ -90,10 +83,6 @@ https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset
 
 - Dashboard visualisation  
 
- 
-
-
-# ---
 
 
 
